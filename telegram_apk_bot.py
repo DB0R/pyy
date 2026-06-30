@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+#!/usr/bin/env python
 بوت تيليجرام لفك وتجميع وتوقيع تطبيقات APK (apktool + uber-apk-signer)
 نفس منطق أداة سطح المكتب الأصلية، لكن بواجهة أزرار تيليجرام.
 
